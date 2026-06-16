@@ -18,7 +18,7 @@ So sánh **giá cổ phiếu** và **doanh thu thực tế** của hai công ty 
 
 ```bash
 # Clone repo
-git clone https://github.com/<NguyenBao-33>/stock-revenue-dashboard.git
+git clone https://github.com/NguyenBao-33/stock-revenue-dashboard.git
 cd stock-revenue-dashboard
 
 # Cài thư viện
